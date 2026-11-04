@@ -1,0 +1,12 @@
+# Web sandbox runtime artifacts
+bun.lock
+package.json
+vite.config.ts
+tsconfig.json
+index.html
+
+# Compiled binaries and build directories
+build/
+*.exe
+*.o
+*.obj

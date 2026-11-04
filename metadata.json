@@ -1,0 +1,6 @@
+{
+  "name": "Fallout 1 CE - OpenAL Soft Surround & EAX/EFX",
+  "description": "Fallout 1 Community Edition (Win64 C/C++) with 3D Surround Sound and OpenAL Soft ALC_EXT_EFX (EAX 2.0) environmental acoustics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
